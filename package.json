@@ -1,28 +1,25 @@
 {
-  "name": "argon-dashboard-react",
+  "name": "website-cms",
   "version": "1.0.0",
-  "description": "React version of Argon Dashboard by Creative Tim",
+  "description": "Website CMS",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-dashboard-react.git"
+    "url": "git+https://github.com/lucianomariani/website-cms.git"
   },
   "keywords": [
     "react",
     "reactjs",
-    "argon",
-    "argon-react",
     "dashboard",
     "dashboard-react",
-    "argon-dashboard",
-    "argon-dashboard-react"
+    "website-cms"
   ],
-  "author": "Creative Tim",
+  "author": "Luciano Mariani",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-dashboard-react/issues"
+    "url": "https://github.com/lucianomariani/website-cms/issues"
   },
-  "homepage": "https://demos.creative-tim.com/argon-dashboard-react/",
+  "homepage": "https://website-cms.lucianomariani.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
