@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/lucianomariani/website-cms/issues"
   },
-  "homepage": "https://website-cms.lucianomariani.com/",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
